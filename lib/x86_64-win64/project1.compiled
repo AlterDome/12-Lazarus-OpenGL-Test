@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\1111111\my\19-Lazarus-Con-OpenGL\lib\x86_64-win64 -FuC:\1111111\my\19-Lazarus-Con-OpenGL\ -FUC:\1111111\my\19-Lazarus-Con-OpenGL\lib\x86_64-win64\ -FEC:\1111111\my\19-Lazarus-Con-OpenGL\ -oC:\1111111\my\19-Lazarus-Con-OpenGL\project1.exe project1.lpr"/>
+</CONFIG>
